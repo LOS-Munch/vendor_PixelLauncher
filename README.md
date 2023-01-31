@@ -1,6 +1,7 @@
+# ![Pixel Launcher Mod (Horus)](https://telegra.ph/file/c54fbbf51b9191b499eaf.jpg)<br/>
 <h1 align="left">Pixel Launcher Mod for Android 13 AOSP ROMs</h1>
 
-# ![Pixel Launcher Mod](https://images.pling.com/img/00/00/64/57/06/1915907/bazaart-20220915-120717.jpg)<br/>
+
 **Support only for Android 13**<br/>
 **Current version: v1.6**<br/>
 **Changelog: [Click here](https://www.pling.com/p/1915907/)**
